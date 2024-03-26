@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "class_rooms",
+  "info": {
+    "singularName": "class-room",
+    "pluralName": "class-rooms",
+    "displayName": "Class_Room"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Class_Name": {
+      "type": "string"
+    },
+    "Confirme": {
+      "type": "boolean"
+    }
+  }
+}
